@@ -16,9 +16,10 @@ in the .docx file you can look for the breakdown of the grammar this is useful o
 http://jsmachines.sourceforge.net/machines/lr1.html
 this web page was used for the final release due to the complexity of the grammar
 
-i have some videos that explain the code but they are in spanish:
+i have some videos that explain the code (spanish):
 https://youtu.be/EalZzqPse1M
 
-and i believe that this ones are in java not javascript:
+and i believe that this ones are in java not javascript(spanish):
 pt1: https://youtu.be/8GG3cTWMmAw
 pt2: https://youtu.be/EuINmFReLV0
+
